@@ -2,3 +2,6 @@
 /notes/**/*.pdf
 /public
 /assets/merged
+
+# git repos
+/reports/
